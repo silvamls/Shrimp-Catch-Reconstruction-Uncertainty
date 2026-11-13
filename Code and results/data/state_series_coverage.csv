@@ -1,0 +1,18 @@
+state,region,n_obs,first_obs,last_obs,longest_run,n_obs_bulletin_era,n_obs_2023_24,usable_step2
+Amapá,N,31,1966,2024,24,29,2,TRUE
+Pará,N,45,1962,2024,32,43,2,TRUE
+Alagoas,NE,47,1962,2024,42,45,2,TRUE
+Bahia,NE,47,1962,2024,42,45,2,TRUE
+Ceará,NE,38,1963,2024,32,36,2,TRUE
+Maranhão,NE,47,1962,2024,42,45,2,TRUE
+Paraíba,NE,41,1962,2024,33,39,2,TRUE
+Pernambuco,NE,45,1962,2024,36,43,2,TRUE
+Piauí,NE,41,1962,2024,32,39,2,TRUE
+Rio Grande do Norte,NE,45,1962,2024,36,43,2,TRUE
+Sergipe,NE,46,1962,2024,37,44,2,TRUE
+Paraná,S,47,1962,2024,42,45,2,TRUE
+Rio Grande do Sul,S,43,1962,2024,32,41,2,TRUE
+Santa Catarina,S,47,1962,2024,42,45,2,TRUE
+Espírito Santo,SE,46,1962,2024,38,44,2,TRUE
+Rio de Janeiro,SE,46,1962,2024,33,44,2,TRUE
+São Paulo,SE,46,1962,2024,42,44,2,TRUE

@@ -1,4 +1,4 @@
-# shrimp-catch-reconstruction-uncertainty
+# Shrimp Catch Reconstruction Uncertainty
 
 Data, code and results of a study on how the **catch-reconstruction (gap-filling) method** changes the reconstructed catch series of **Brazilian marine shrimp** and the resulting **ZBRT depletion indicator (B/K)**.
 
